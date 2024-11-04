@@ -1,0 +1,52 @@
+{
+  "version": "3.78.30747.0",
+  "course_id": "6ghJxuODk8r",
+  "title": "Herramientas de gestión medioambiental y social",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Escena sin título"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6mztLfaxyLz",
+      "title": "PRINCIPALES ",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "65ra0NNLZex",
+      "title": "cultural",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6mO6ltcmSbM",
+      "title": "Proporcionalidad",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5Xa82Hzy8mB",
+      "title": "acceso",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5q3YBak563c",
+      "title": "transparencia",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6rWXBWPE2yY",
+      "title": "MRA",
+      "scene_index": "1.6"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
